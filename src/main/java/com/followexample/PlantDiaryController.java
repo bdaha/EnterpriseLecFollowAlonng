@@ -19,6 +19,10 @@ import org.springframework.web.bind.annotation.*;
  * @author Binod Dahal
  */
 
+/**
+ * Example java doc
+ */
+
 @Controller
 public class PlantDiaryController {
 
